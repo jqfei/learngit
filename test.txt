@@ -1,7 +1,6 @@
 This is a test file.
 hello
 world
-again
 create dev branch
 master change
 feature change
